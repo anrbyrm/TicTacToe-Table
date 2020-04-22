@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+td {
+  width: 100px;
+  height: 100px;
+}
+table {
+	margin: auto;
+  	border-collapse: collapse;
+}
+.leftright {
+  border-left: 4px solid #ff5d3d;
+  border-right: 4px solid #ff5d3d;
+}
+
+.topbottom{
+	border-top: 4px solid #ff5d3d;
+	border-bottom: 4px solid #ff5d3d;
+}
